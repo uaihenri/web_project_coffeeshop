@@ -229,7 +229,7 @@
   padding-left: 20px;
 }
 
-.button__submit:enabled {
+.form__button-submit:enabled {
   border-radius: 4px;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
@@ -244,7 +244,7 @@
   cursor: pointer;
 }
 
-.button__submit:hover:enabled {
+.form__button-submit:hover:enabled {
   opacity: 0.7;
 }
 
