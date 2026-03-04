@@ -7,3 +7,7 @@
   line-height: 20px;
   color: black;
 }
+
+.page--smooth-scroll {
+  scroll-behavior: smooth;
+}
